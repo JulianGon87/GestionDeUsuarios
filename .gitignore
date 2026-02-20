@@ -1,0 +1,17 @@
+# Archivos comprimidos
+*.rar
+*.zip
+*.tar.gz
+
+# Archivos de texto sueltos que no son documentación
+Link Github y Video.txt
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores e IDEs
+.vscode/
+.agent/
+*.suo
+*.user
